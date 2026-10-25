@@ -63,7 +63,7 @@ olması gerekir.
 1.  Depoyu bilgisayarınıza klonlayın:
 
     ``` bash
-    git clone https://github.com/nuritiras/flutter-drawer-degerler-egitimi.git
+    git clone https://github.com/nuritiras/drawer_app.git
     ```
 
     > Depo adınız farklıysa komuttaki adresi kendi GitHub depo
@@ -72,7 +72,7 @@ olması gerekir.
 2.  Proje klasörüne geçin:
 
     ``` bash
-    cd flutter-drawer-degerler-egitimi
+    cd drawer_app
     ```
 
 3.  Paketleri indirin:
@@ -202,3 +202,9 @@ anlamlı bir eğitim senaryosunda kullanmayı amaçlar.
 Bu proje eğitim ve öğrenme amacıyla hazırlanmıştır. Yeniden kullanım ve
 dağıtım koşullarını belirlemek istiyorsanız depoya uygun bir `LICENSE`
 dosyası ekleyin.
+
+<img width="553" height="1110" alt="Ekran Resmi 2026-10-25 21 06 16" src="https://github.com/user-attachments/assets/ae6f93ee-52a7-44e6-8ad6-350d842c5d4f" />
+
+<img width="553" height="1110" alt="Ekran Resmi 2026-10-25 21 06 07" src="https://github.com/user-attachments/assets/4f23966f-932d-4016-b3e8-9cea49437cd6" />
+
+
