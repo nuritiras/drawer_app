@@ -1,7 +1,7 @@
 # Flutter Drawer Widget -- Değerler Eğitimi Uygulaması
 
 Bu proje, Flutter'da **`Drawer` widget'ının** kullanımını öğretmek
-amacıyla hazırlanmış örnek bir mobil uygulamadır. Uygulama, Ekim ayı
+amacıyla hazırlanmış örnek bir mobil uygulamadır. Uygulama,
 değerler eğitimi kapsamında **saygı, temizlik ve mahremiyet** konularını
 ele alır.
 
@@ -199,9 +199,7 @@ anlamlı bir eğitim senaryosunda kullanmayı amaçlar.
 
 ## 📄 Lisans
 
-Bu proje eğitim ve öğrenme amacıyla hazırlanmıştır. Yeniden kullanım ve
-dağıtım koşullarını belirlemek istiyorsanız depoya uygun bir `LICENSE`
-dosyası ekleyin.
+Bu proje eğitim ve öğrenme amacıyla hazırlanmıştır.
 
 <img width="553" height="1110" alt="Ekran Resmi 2026-10-25 21 06 16" src="https://github.com/user-attachments/assets/ae6f93ee-52a7-44e6-8ad6-350d842c5d4f" />
 
